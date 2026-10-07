@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Черкаси 6.2</string>
+    <string name="notification_channel_id">outage62_channel</string>
+    <string name="notification_channel_name">Графіки відключень 6.2</string>
+    <string name="notification_title">Новий графік для 6.2</string>
+</resources>
